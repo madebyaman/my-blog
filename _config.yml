@@ -1,8 +1,8 @@
 # Site settings
 title:       Aman Thakur
-email:       builtbyaman@gmail.com
+email:       designedbyaman@gmail.com
 author:      Aman Thakur
-description: "My personal blog theme."
+description: "My personal blog."
 baseurl:     ""
 url:         ""
 date_format: "%b %-d, %Y"
