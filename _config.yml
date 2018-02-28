@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Aman Thakur
+email:       builtbyaman@gmail.com
+author:      Aman Thakur
+description: "My personal blog theme."
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -51,15 +51,15 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: "http://github.com/madebyaman"
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
-skype_username:
+twitter_username: "http://www.twitter.com/imamanthakur"
+skype_username: 
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: "http://www.linkedin.com/in/imamanthakur"
 angellist_username:
 medium_id:
 bitcoin_url:
