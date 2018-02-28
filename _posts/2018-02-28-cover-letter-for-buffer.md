@@ -24,7 +24,7 @@ My project building journey started today.
 Today, I visited some of your popular blog posts. I found that some of your blog posts had an exclusive bonus that readers can download free of cost.  
 So, I thought why not combine all these resources in one page where people can download them in one-go.  
 Like Hubspot and CoSchedule:  
-1[Hubspot and CoSchedule Resources Page](/images/hubspot-coschedule-resource-page.png)
+![Hubspot and CoSchedule Resources Page](/images/hubspot-coschedule-resource-page.png)
 I searched in Google and created a spreadsheet of all the resources created by you. Then, I quickly opened my notepad and created a very quick wireframe for it.  
 ![Wireframe of Buffer Resource Library](/images/wireframe.jpg)
 However, the final product ended up look a bit different than my wireframe. I built the page with Bootstrap and some custom styling on top.  
